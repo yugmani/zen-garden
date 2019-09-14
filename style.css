@@ -16,11 +16,17 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
+	color: #21dd21; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
+h2 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:blueviolet;
+	background-color:rgb(120, 105, 255);
+	font-weight: bold;
+}
 p { 
 	margin-top: 0; 
 	text-align: justify;
@@ -29,7 +35,7 @@ h3 {
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #7D775C;
+	color: rgb(99, 92, 125);
 	}
 a:link { 
 	font-weight: bold; 
